@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78657744738",
+    "firebase_url": "https://environmentalnewsapp-2e617.firebaseio.com",
+    "project_id": "environmentalnewsapp-2e617",
+    "storage_bucket": "environmentalnewsapp-2e617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78657744738:android:bedce546595580f5ec863b",
+        "android_client_info": {
+          "package_name": "com.graduationproject.egyptnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78657744738-8fpa3p6g8vlqd1di9q3l12v5q94d5g9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graduationproject.egyptnews",
+            "certificate_hash": "9624154d0be4b69d33c56b2bc1a47f9c960dc798"
+          }
+        },
+        {
+          "client_id": "78657744738-8msgc04bht1qe90g6j9203uth4t7d8ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwQC8pqNtYqRKMShyQGTgs-hwwMfY7zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78657744738-8msgc04bht1qe90g6j9203uth4t7d8ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
